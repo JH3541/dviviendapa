@@ -1,0 +1,59 @@
+section div#fullpage div.section div.wrap p.enunciado {
+  width: 68%;
+}
+header div.cabecera ul#myMenu li a i.icono{
+  display: block;
+  margin: 0 auto 5px;
+  background: url("/assets/ico-menu.png") no-repeat top left;
+}
+
+header div.cabecera ul#myMenu li a i.icono.ico-bienvenido {
+  background-position: -4px -10px;
+  width: 32px;
+  height: 30px;
+}
+header div.cabecera ul#myMenu li.active a i.icono.ico-bienvenido {
+  background-position: -4px -47px;
+}
+header div.cabecera ul#myMenu li a i.icono.ico-vehiculo {
+  background-position: -4px -87px;
+  width: 32px;
+  height: 28px;
+}
+header div.cabecera ul#myMenu li.active a i.icono.ico-vehiculo {
+  background-position: -4px -125px;
+}
+header div.cabecera ul#myMenu li a i.icono.ico-canales {
+  background-position: -10px -156px;
+  width: 22px;
+  height: 30px;
+}
+header div.cabecera ul#myMenu li.active a i.icono.ico-canales {
+  background-position: -10px -195px;
+}
+header div.cabecera ul#myMenu li a i.icono.ico-movil {
+  background-position: -4px -231px;
+  width: 32px;
+  height: 35px;
+}
+header div.cabecera ul#myMenu li.active a i.icono.ico-movil {
+  background-position: -4px -266px;
+  width: 32px;
+  height: 35px;
+}
+header div.cabecera ul#myMenu li a i.icono.ico-pagar-facilmente {
+  background-position: -4px -309px;
+  width: 32px;
+  height: 30px;
+}
+header div.cabecera ul#myMenu li.active a i.icono.ico-pagar-facilmente {
+  background-position: -4px -342px;
+}
+header div.cabecera ul#myMenu li a i.icono.ico-cargos-automaticos {
+  background-position: -4px -382px;
+  width: 32px;
+  height: 30px;
+}
+header div.cabecera ul#myMenu li.active a i.icono.ico-cargos-automaticos {
+  background-position: -4px -415px;
+}
